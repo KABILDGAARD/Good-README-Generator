@@ -1,6 +1,6 @@
 
   # **README.md Generator**
-  MIT
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
   ## Description 
   When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
   ## Table of contents
@@ -13,11 +13,14 @@
   - [Repository Link](#Repository)
   - [GitHub Info](#GitHub) 
   ## Installation
-          Run npm i on package.json
+          Run 'npm i' on package.json
   ## Usage
-  AS A developer
+    AS A developer
+    I WANT a README generator
+    SO THAT can quickly create a professional README for a new project
+
   ## Licence
-  MIT
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
   ## Contributors
   N/A
   ## Test
