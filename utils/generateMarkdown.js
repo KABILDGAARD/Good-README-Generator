@@ -11,8 +11,12 @@ function generateMarkdown(data, githubInfo) {
   - [Usage](#Usage)
   - [Licence](#Licence)
   - [Contributors](#Contributors)
+  - [Road Map] (#Road Map)
   - [Test](#Test)
+  - [Visuals](#Visuals)
+  - [Status](#Status)
   - [Repository Link](#Repository)
+  - [Deployed](#Deployed)
   - [GitHub Info](#GitHub) 
   ## Installation
           ${data.installation}
@@ -22,10 +26,18 @@ function generateMarkdown(data, githubInfo) {
   ${data.licence}
   ## Contributors
   ${data.contributing}
+  ## Road Map
+  ${data.road_map}
   ## Test
   ${data.test}
+  ## Visuals
+  ${data.visuals}
+  ## Status
+  ${data.status}
   ## Repository
   - [Project Repo](${data.repo})
+  ## Deployed
+  - [Deployed](${data.deployed})
   ## GitHub
   ![Image of me](${githubInfo.githubImage})
   - ${githubInfo.name}
