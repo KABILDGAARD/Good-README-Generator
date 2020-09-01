@@ -2,7 +2,7 @@
   # **ReadMe Generator**
   
   ## Description 
-  A generator to help create better ReadMe's for your projects
+  A generator to help create better README.md files for your projects
   ## Table of contents
   - [Description](#Description)
   - [Installation](#Installation)
