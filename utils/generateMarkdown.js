@@ -19,7 +19,7 @@ function generateMarkdown(data, githubInfo) {
   - [Deployed](#Deployed)
   - [GitHub Info](#GitHub) 
   ## Installation
-          ${data.installation}
+  ${data.installation}
   ## Usage
   ${data.usage}
   ## Licence

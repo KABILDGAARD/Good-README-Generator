@@ -17,7 +17,7 @@
   - [Deployed](#Deployed)
   - [GitHub Info](#GitHub) 
   ## Installation
-          Run 'npm i' on package.json
+  Run 'npm i' on package.json
   ## Usage
   AS A developer, I WANT a README generator, SO THAT can quickly create a professional README for a new project.
   ## Licence
@@ -27,13 +27,13 @@
   ## RoadMap
   
   ## Test
-  
+  ![Demo](assets/README.mp4)
   ## Visuals
-  
+  ![Demo](assets/README.png)
   ## Status
   Finished for now.
   ## Repository
-  - [Project Repo](https://github.com/KABILDGAARD/Good-README-Generator)
+  - [Project Repo](https://github.com/KABILDGAARD/Good-README-Generator#RoadMap)
   ## Deployed
   - [Deployed](N/A)
   ## GitHub
