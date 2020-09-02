@@ -28,7 +28,8 @@ const questions = [
     {
         type: "input",
         name: "installation",
-        message: "Please provide the installation instructions."
+        message: "Please provide the installation instructions.",
+        default: "npm i"
     },
     {
         type: "input",
@@ -48,7 +49,8 @@ const questions = [
     {
         type: "input",
         name: "licence",
-        message: "Please provide the project licence."
+        message: "Please provide the project licence.",
+        choices: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3", "None"]
     },
     {
         type: "input",
