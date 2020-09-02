@@ -42,8 +42,8 @@ const questions = [
     },
     {
         type: "input",
-        name: "road map",
-        message: "Please outline project road map."
+        name: "roadmap",
+        message: "Please outline project roadmap."
     },
     {
         type: "input",

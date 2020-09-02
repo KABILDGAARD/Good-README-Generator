@@ -27,7 +27,7 @@ function generateMarkdown(data, githubInfo) {
   ## Contributors
   ${data.contributing}
   ## Road Map
-  ${data.road_map}
+  ${data.roadmap}
   ## Test
   ${data.test}
   ## Visuals
@@ -39,7 +39,7 @@ function generateMarkdown(data, githubInfo) {
   ## Deployed
   - [Deployed](${data.deployed})
   ## GitHub
-  ![Image of me](${githubInfo.githubImage})
+  ![GitHub Picture](${githubInfo.githubImage})
   - ${githubInfo.name}
   - [GitHub Profile](${githubInfo.profile})
   - <${githubInfo.email}>
