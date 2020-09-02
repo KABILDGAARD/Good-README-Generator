@@ -11,7 +11,7 @@ function generateMarkdown(data, githubInfo) {
   - [Usage](#Usage)
   - [Licence](#Licence)
   - [Contributors](#Contributors)
-  - [Road Map] (#Road Map)
+  - [Road Map] (#RoadMap)
   - [Test](#Test)
   - [Visuals](#Visuals)
   - [Status](#Status)
@@ -26,7 +26,7 @@ function generateMarkdown(data, githubInfo) {
   ${data.licence}
   ## Contributors
   ${data.contributing}
-  ## Road Map
+  ## RoadMap
   ${data.roadmap}
   ## Test
   ${data.test}
