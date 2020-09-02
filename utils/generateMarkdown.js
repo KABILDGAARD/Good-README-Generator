@@ -11,7 +11,7 @@ function generateMarkdown(data, githubInfo) {
   - [Usage](#Usage)
   - [Licence](#Licence)
   - [Contributors](#Contributors)
-  - [Road Map] (#RoadMap)
+  - [RoadMap] (#RoadMap)
   - [Test](#Test)
   - [Visuals](#Visuals)
   - [Status](#Status)
